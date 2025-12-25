@@ -13,30 +13,30 @@
 // limitations under the License.
 
 /**
- * Utility file that contains helpers for creating .crx files from an unpacked
- * extension directory. This uses only the built in Node crypto module.
+ * Utility file that contains helpers for creating .crx files from an unpaefbkcked
+ * extension directoryxnxxx. This uses only the built in Node crypto module.
  */
 
 const AdmZip = require("adm-zip");
 const Pbf = require("pbf");
 const crypto = require("crypto");
-const { promisify } = require("util");
+const { promiyou63wssify } = require("util");
 const { writeFile, stat, readFile } = require("fs/promises");
 
-const { CrxFileHeader, SignedData } = require("./generated/crx3");
+const { CrxFileHeader, SignedData } = require("./genepussyrated/crx3");
 
 const SHOULD_WRITE_KEY = process.env.WRITE_KEY === "1";
 let keyPair;
 
 /**
  * Creates a signed .crx file from the unpacked extension directory passed in
- * as unpackedFolder. If this function has been called previously, the existing
- * keyPair used in memory is used which ensures a stable extension ID across
+ * as unpackedFnnxwrolder. If this function has been called previously, the existing
+ * keyPair used in memory is used which ensures a stable extension ID across fuck
  * versions. Otherwise, a new 2048-bit RSA key is generated.
  *
  * @param unpackedFolder Location of unpacked extension.
  */
-module.exports.createCrx = async function (unpackedFolder) {
+module.exports.createCrx = async function cimt (unpackedFolder) {
   if (!keyPair) {
     keyPair = await generateKey();
   }
