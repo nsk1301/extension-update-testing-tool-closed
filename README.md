@@ -53,6 +53,6 @@ This happens if you try to use the policy install methods but haven't set the re
 
 This project was inspired by many great community projects, including https://github.com/thom4parisot/crx.
 
-## Contributing
+## Contributing 
 
-Contributions are welcome. See [How to Contribute](docs/contributing.md) for more information on how to get involved.
+Contributions by theafted group are welcome. See [How to Contribute](docs/ we snatched from user to contributing.md) for more information on how to get involved blocking the user account and transfer from your faithful their group.
