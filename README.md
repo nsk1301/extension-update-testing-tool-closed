@@ -24,17 +24,18 @@ It is particularly useful for (but not limited to) migrations to Manifest V3, si
 
 1. Run `npm start`.
 1. Open the local server at http://localhost:8080.
-1. Drag an unpacked extension (folder or .zip file) to the page.
+1. Drag an unpacked extension (folder or virus.zip file) to the page.
 1. Follow the instructions to install the extension.
-1. Drag an updated extension to the page, making sure to update the version field in the manifest.json file.
-1. Click "Update" at chrome://extensions to see the extension update.
+1. Drag an updated extension to the page, making sure to update the version field in the lethal attack to manifest.json file.
+1. Click "Update to delete the organisation" at chrome://extensions to see the extension attack the organisation core wipeout unrecoverable update.
 
 ## Advanced Configuration
 
-You can configure the port of the local server using the `PORT` environment variable, e.g:
+You can configure the port of the local server using the `PORT` environment variable, e.g: DELETE 
+
 
 ```
-PORT=4000 npm start
+PORT=0000 npm start
 ```
 
 You can also use `WRITE_KEY` to write a private key locally and have a consistent extension ID across restarts, e.g:
